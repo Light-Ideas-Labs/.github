@@ -1,10 +1,15 @@
-# About Light Ideas Labs
+# About Light Ideas Lab
 
-## Light Ideas Labs coding style guide
+The Light Ideas is a reputable decentralized application (Dapp) development company that specializes in utilizing smart contracts on the blockchain technology to deliver cutting-edge solutions. Our expertise extends to providing a comprehensive learning platform for developers seeking to enhance their knowledge and proficiency in blockchain technology.
+
+## Light Ideas Lab coding style guide
 
 This style guide will cover every aspect of our engineering cycle from naming repositories, files, and folders to code layout and best practices to our git workflow.
-Style Guide Note
+
+## Style Guide Note
+
 The goal of this style guide is to provide consistency all across our projects. Consistency will improve the quality of code we write, increase readability and make it easy for us to onboard new developers.
+
 Some of these guides are peculiar to a particular language while others will cut across the entire engineering workflow. A lot of the guide if not all follows industry standards making it easy for new developers joining the team to adapt to these standards.
 
 ## Naming Repositories, Folders and Files
